@@ -13,6 +13,5 @@ This number conversion system contains the following functions:
 	Hexadecimal to Binary
 	Hexadecimal to Octal
 	
-These contains a library of functions for each conversion which is written in Python.
-Please do note that these functions returns each digit of a number in a list except for
-decimal conversion.
+This is written in Python. Please do note that these functions returns 
+each digit of a number in a list except for decimal conversion.
